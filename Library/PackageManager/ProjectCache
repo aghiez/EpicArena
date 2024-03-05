@@ -13,14 +13,14 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638452137249371438
-    m_Hash: 1016250241
+      ticks: 638452173553682568
+    m_Hash: 3701560432
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: D:/agoeng/EpicArena/Packages
-m_EditorVersion: 2022.3.6f1 (b9e6e7e9fa2d)
+m_EditorVersion: 2022.3.5f1 (9674261d40ee)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.0.5
   testable: 0
@@ -216,7 +216,7 @@ m_ResolvedPackages:
   - name: com.unity.profiling.core
     version: 1.0.2
   - name: com.unity.mobile.notifications
-    version: 2.2.1
+    version: 2.2.0
   - name: com.unity.modules.androidjni
     version: 1.0.0
   keywords: []
@@ -3368,12 +3368,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.mobile.notifications@2.2.1
+- packageId: com.unity.mobile.notifications@2.2.0
   testable: 0
   isDirectDependency: 0
-  version: 2.2.1
+  version: 2.2.0
   source: 1
-  resolvedPath: D:\agoeng\EpicArena\Library\PackageCache\com.unity.mobile.notifications@2.2.1
+  resolvedPath: D:\agoeng\EpicArena\Library\PackageCache\com.unity.mobile.notifications@2.2.0
   assetPath: Packages/com.unity.mobile.notifications
   name: com.unity.mobile.notifications
   displayName: Mobile Notifications
@@ -3382,7 +3382,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: asset
   description: 'Mobile Notifications package adds support for scheduling local repeatable
     or one-time notifications on iOS and Android.
 
@@ -3438,6 +3438,7 @@ m_ResolvedPackages:
     - 2.3.1
     - 2.3.2
     compatible:
+    - 2.2.0
     - 2.2.1
     - 2.2.2
     - 2.3.0
@@ -3466,16 +3467,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638254523710000000
+  datePublishedTicks: 638203602140000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.mobile.notifications@2.2/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.mobile.notifications.git
-    revision: 3304aac282fce2960fb70ce28b42ee1e3770a210
+    revision: ddeea3dc77646f90c2c14983925af5a1693bfe26
     path: 
   unityLifecycle:
-    version: 2.2.1
+    version: 2.2.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
